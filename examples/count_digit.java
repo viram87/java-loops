@@ -30,3 +30,14 @@ public class count_digit {
     }
     
 }
+
+
+/*
+ * 
+ *  output :
+ * Enter the number : 
+ * 45612
+ * 
+ * 5
+   
+*/

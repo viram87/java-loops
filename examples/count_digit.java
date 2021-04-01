@@ -17,14 +17,13 @@ public class count_digit {
 
             while(n > 0)
             {
-                int r = n % 10;
-			    n = n/10;
+                n = n/10;
                 count++;
             }
             System.out.println(count);
 
 
-
+            v1.close();
         
     
         

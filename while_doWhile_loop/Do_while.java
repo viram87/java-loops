@@ -1,4 +1,4 @@
-package loops;
+package while_doWhile_loop;
 
 public class Do_while {
 

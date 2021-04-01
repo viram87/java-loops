@@ -1,6 +1,6 @@
 //while loop
 
-package loops;
+package while_doWhile_loop;
 
 public class While_loop {
 

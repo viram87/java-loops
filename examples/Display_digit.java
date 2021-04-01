@@ -28,6 +28,7 @@ public class Display_digit {
 			
 		}
 		
+		
 		v1.close();
 		
 

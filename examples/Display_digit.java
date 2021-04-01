@@ -10,8 +10,7 @@ import java.util.Scanner;
 public class Display_digit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+				
 		Scanner v1 = new Scanner(System.in);
 		
 		System.out.println("Enter the number :");

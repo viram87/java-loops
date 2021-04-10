@@ -1,3 +1,13 @@
+/* draw the pattern
+
+        *  
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+
+*/
+
 package Patterns;
 
 import java.util.Scanner;
